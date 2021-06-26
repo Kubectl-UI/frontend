@@ -1,0 +1,4 @@
+# Ignore .history file. Locally created Back up file.
+.history/
+# vs code json file
+.vscode/
