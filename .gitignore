@@ -2,3 +2,5 @@
 .history/
 # vs code json file
 .vscode/
+#backend folder
+backend/
